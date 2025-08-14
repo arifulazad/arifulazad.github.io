@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Ariful Azad"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Associate Professor of Computer Science"
   location         : "Earth"
-  employer         : "Texas A&M University"
+  employer         : "Department of Computer Science and Engineering, Texas A&M University"
   uri              : # URL
   email            : "ariful@tamu.edu" 
 
