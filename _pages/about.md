@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 I am an Associate Professor in the Department of Computer Science and Engineering at Texas A&M University. I received my Ph.D. in Computer Science from Purdue University and my B.S. in Computer Science from the Bangladesh University of Engineering and Technology. I am a recipient of the DOE Early Career Award and the NSF CAREER Award.
 
 Research Interests
