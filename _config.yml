@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Ariful Azad"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -26,7 +26,7 @@ author:
   name             : "Ariful Azad"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor, Department of Computer Science and Engineering, Texas A&M University."
-  location         : "Earth"
+  location         : "PETR 215"
   employer         : "Department of Computer Science and Engineering, Texas A&M University"
   uri              : https://engineering.tamu.edu/cse/index.html
   email            : "ariful@tamu.edu" 
