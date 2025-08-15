@@ -12,19 +12,19 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 Course Information
 ======
-** CSCE 654: Supercomputing **
-Credit Hours: 	3 
-Time:  	Tuesday/Thursday (TR) 2:20-3:25pm 
-Location: HRBB 126 
+**CSCE 654: Supercomputing**  
+Credit Hours: 	3 <br>
+Time:  	Tuesday/Thursday (TR) 2:20-3:25pm <br>
+Location: HRBB 126 <br>
 
 
 Instructor
 ======
-Instructor: Ariful Azad 
-Office: PETR 215 
-Phone:	979-845-5351 
-E-Mail: ariful@tamu.edu 	 
-Office Hours: Tuesday 1pm - 2pm 
+Instructor: Ariful Azad <br>
+Office: PETR 215 <br>
+Phone:	979-845-5351 <br>
+E-Mail: ariful@tamu.edu <br>	 
+Office Hours: Tuesday 1pm - 2pm <br>
 
 
 Course Overview
@@ -33,7 +33,7 @@ This course discusses supercomputing architectures, developing programs for supe
 
 Grading Policy
 ======
-|---------------------------------------|--------|
+
 | Component                             | Weight |
 |---------------------------------------|--------|
 | Midterm Exam                          | 20%    |
@@ -41,12 +41,12 @@ Grading Policy
 | Mini Programming Exercises            | 10%    |
 | Paper Reading and Presentation (1)    | 10%    |
 | Projects (presentation, and report)   | 30%    |
-|---------------------------------------|--------|
+
 
 
 Class Schedule
 ======
-|-------|-------|----------------|
+
 | Class | Topic | Module / Notes |
 |-------|-------|----------------|
 | **Module 1: Foundations of Supercomputing** (3 lectures, 1 mini exercise, 1 HW) |
