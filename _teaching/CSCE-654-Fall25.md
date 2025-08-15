@@ -7,11 +7,10 @@ venue: "Texas A&M University"
 location: "College Station, Texas"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Course Information
 ======
-**CSCE 654: Supercomputing**  
+Fall 2025
 Credit Hours: 	3 <br>
 Time:  	Tuesday/Thursday (TR) 2:20-3:25pm <br>
 Location: HRBB 126 <br>
