@@ -2,7 +2,7 @@
 title: "CSCE 654: Supercomputing"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/CSCE-654-Fall25.md
+permalink: /teaching/CSCE-654-Fall25/
 venue: "Texas A&M University"
 location: "College Station, Texas"
 ---
