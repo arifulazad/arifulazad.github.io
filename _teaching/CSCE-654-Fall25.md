@@ -1,10 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "CSCE 654: Supercomputing"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "Texas A&M University, Department"
-date: 2014-01-01
+permalink: /teaching/CSCE-654-Fall25.md
+venue: "Texas A&M University"
 location: "College Station, Texas"
 ---
 
