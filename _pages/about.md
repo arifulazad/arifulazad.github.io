@@ -15,5 +15,5 @@ My primary area of research is high-performance computing, with a focus on devel
 
 Research Group
 ======
-Working with energetic and innovative students is one of my main motivations for being in academia. More than 10 Ph.D. students have worked with me, and recent graduates have joined institutions and organizations such as Meta, Amazon, Cornell University, Wake Forest University, and Pacific Northwest National Laboratory. I have also supervised over 20 M.S. students and several undergraduates on various research projects. If you are interested in joining our group, please see the Prospective Students tab for more information. $${\color{blue}\text{Prospective students, please read this:}}$$  [this](_pages/prospective.md)
+Working with energetic and innovative students is one of my main motivations for being in academia. More than 10 Ph.D. students have worked with me, and recent graduates have joined institutions and organizations such as Meta, Amazon, Cornell University, Wake Forest University, and Pacific Northwest National Laboratory. I have also supervised over 20 M.S. students and several undergraduates on various research projects. If you are interested in joining our group, please see the Prospective Students tab for more information. $${\color{blue}\text{Prospective students, please read this:}}$$  [this](prospective.md)
 
