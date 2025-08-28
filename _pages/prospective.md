@@ -1,5 +1,10 @@
-Prospective Students
-======
+---
+layout: archive
+title: "Prospective Students"
+permalink: /prospective/
+author_profile: true
+---
+
 One of the main motivations for me to work in academia is to work with dynamic students. 
 Unfortunately, I cannot work with all students who would like to work with me. 
 I encourage prospective students to read this page before contacting me.
