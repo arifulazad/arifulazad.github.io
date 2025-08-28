@@ -5,9 +5,10 @@ permalink: /prospective/
 author_profile: true
 ---
 
-One of the main motivations for me to work in academia is to work with dynamic students. 
-Unfortunately, I cannot work with all students who would like to work with me. 
-I encourage prospective students to read this page before contacting me.
+One of my primary motivations for working in academia is the opportunity to 
+collaborate with motivated and dynamic students.
+However, due to time and resource constraints, I am unable to work with everyone who expresses interest.
+If you're a prospective student interested in working with me, I encourage you to carefully read this page before reaching out. It may help clarify whether your goals and interests align with my current research focus and mentoring capacity.
 
 **Research interests:** I am broadly interested in large-scale computational challenges at the intersection of scientific computing and machine learning.
 On the computational side, my work focuses on parallel and distributed computing, 
