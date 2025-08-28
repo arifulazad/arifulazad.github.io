@@ -27,9 +27,9 @@ my long-term aim is to help students become independent researchers who are capa
 **Students already at TAMU:** You are welcome to email me and set up a time to discuss your research interests.
 
 **Prospective PhD students:** I typically admit one Ph.D. student each year from the pool of applicants to our graduate program.
-If you are interested in working with me, the best way is to apply to our Ph.D. program and mention my name in your application. Before reaching out, 
+If you are interested in working with me, the best way is to apply to our Ph.D. program and mention my name in your application. 
 You are welcome to email me to express your research interests. 
-Please review my research interests and consider whether your goals align with the topics I work on.
+Before reaching out, please review my research interests and consider whether your goals align with the topics I work on.
 When emailing me, please include the following in your email or CV:
 (a) Your academic background (university, degree, GPA)
 (b) Any prior research experience and publications (if applicable)
