@@ -26,7 +26,7 @@ my long-term aim is to help students become independent researchers who are capa
 
 **Students already at TAMU:** You are welcome to email me and set up a time to discuss your research interests.
 
-**Prospective PhD students:** I typically admit one Ph.D. student each year from the pool of applicants to our graduate program.
+**Prospective Ph.D. students:** I typically admit one Ph.D. student each year from the pool of applicants to our graduate program.
 If you are interested in working with me, the best way is to apply to our Ph.D. program and mention my name in your application. 
 You are welcome to email me to express your research interests. 
 Before reaching out, please review my research interests and consider whether your goals align with the topics I work on.
@@ -42,7 +42,7 @@ I can only discuss your research interests and, if appropriate, encourage you to
 
 
 
-**Prospective MS students:** I am not involved in the admission decisions for M.S. students 
+**Prospective M.S. students:** I am not involved in the admission decisions for M.S. students 
 and do not provide funding (TA/RA) to incoming M.S. students.
 Therefore, it is generally not productive to contact me before you have been admitted 
 and have arrived in College Station.
